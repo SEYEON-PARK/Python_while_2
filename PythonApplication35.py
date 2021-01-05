@@ -1,4 +1,4 @@
-a = 1
+a = 1 
 
 while (a < 2):
     print(a) #변수 a 출력하기
